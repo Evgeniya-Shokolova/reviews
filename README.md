@@ -8,15 +8,15 @@
 Пользователи могут оставлять комментарии к отзывам.
 Добавлять отзывы, комментарии и ставить оценки могут только аутентифицированные пользователи.
 ____
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236BCF7&lines=Как+запустить+проект+api+yamdb:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236BCF7&lines=Как+запустить+проект+Reviews:)](https://git.io/typing-svg)
 
 `Выполнить клонирование`
 ```bash
-git clone git@github.com: yandex-praktikum/api_yamdb.git
+git clone git@github.com:Evgeniya-Shokolova/reviews.git
 ```
 `Перейти в папку с проектом` 
 ```bash
-cd api_yamdb
+cd reviews
 ```
 `Создать виртуальное окружение:`
    Команда для Windows: -
@@ -27,7 +27,7 @@ python -m venv venv
 ```bash
 python3 -m venv venv
 ```
-Активировать виртуальное окружение:`
+`Активировать виртуальное окружение:`
    Команда для Windows: -
 ```bash
 source venv/Scripts/activate
