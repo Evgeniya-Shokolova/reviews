@@ -64,8 +64,8 @@ python manage.py runserver
 ____
 
 #### Авторы:
-`Произведения, категории, жанры, импорт данных из csv файлов - https://github.com/mvkondrashov`
+`Произведения, категории, жанры, импорт данных из csv файлов - https://github.com/mvkondrashov
 
-`Отзывы, комментарии, рейтинг - https://github.com/Evgeniya-Shokolova`
+Отзывы, комментарии, рейтинг - https://github.com/Evgeniya-Shokolova
 
-`Авторизация и аутентификация, права доступа, пользователи - https://github.com/xlcox`
+Авторизация и аутентификация, права доступа, пользователи - https://github.com/xlcox
